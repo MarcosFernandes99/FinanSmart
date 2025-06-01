@@ -1,0 +1,32 @@
+body{
+    background-color: var(--bs-black);
+}
+
+header{
+    margin-top: 5rem;
+    
+}
+
+.header-balance{
+    width: 80%;
+}
+
+main{
+    height: 50vh;
+    margin-top: 2rem;
+}
+
+.section-expenses{
+    width: 90%;
+    margin: 3rem 0rem; 
+}
+
+.box-expenses{
+    display: flex;
+    justify-content: space-between;
+    color: var(--bs-black);
+}
+
+footer{
+    width: 80%;
+}
