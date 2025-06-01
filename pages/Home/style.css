@@ -3,11 +3,21 @@ body{
 }
 
 header{
+    margin-top: 5rem;
     
 }
 
+.header-balance{
+    width: 80%;
+}
+
+main{
+    height: 50vh;
+    margin-top: 2rem;
+}
+
 .section-expenses{
-    width: 30rem;
+    width: 90%;
     margin: 3rem 0rem; 
 }
 
@@ -15,4 +25,8 @@ header{
     display: flex;
     justify-content: space-between;
     color: var(--bs-black);
+}
+
+footer{
+    width: 80%;
 }
