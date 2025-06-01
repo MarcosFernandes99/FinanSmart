@@ -1,0 +1,18 @@
+body{
+    background-color: var(--bs-black);
+}
+
+header{
+    
+}
+
+.section-expenses{
+    width: 30rem;
+    margin: 3rem 0rem; 
+}
+
+.box-expenses{
+    display: flex;
+    justify-content: space-between;
+    color: var(--bs-black);
+}
